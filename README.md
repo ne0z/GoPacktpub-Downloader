@@ -1,4 +1,6 @@
 # GoPacktpub-Downloader
+[![Run Gosec](https://github.com/ne0z/GoPacktpub-Downloader/actions/workflows/security-scan.yaml/badge.svg)](https://github.com/ne0z/GoPacktpub-Downloader/actions/workflows/security-scan.yaml)
+
 This is tool to generate Ebook (amazon kindle friendly) from the Packtpub subscription library. So, you need to subscribe Packtpub library first to execute this command.
 
 ## Dependencies
